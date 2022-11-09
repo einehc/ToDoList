@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@300&family=Sacramento&family=Stick+No+Bills:wght@700&display=swap');
+
+body {
+    margin:0;
+    
+}
+
+.toDo-container{
+    background-color: beige;
+    height: 500px;
+    width: 500px;
+    font-family: 'Stick No Bills', sans-serif;
+    border-radius: 30px;
+    border-style:dashed;
+    border-color: pink;
+    color: rgb(114, 195, 191);
+}
+
+
+#display{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    color: black;
+}
+
+
+.form-container{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+.mytext-container{
+    color:rgb(226, 195, 69);
+    font-family: 'Sacramento', cursive;
+    /* background-color: red; */
+    height: auto;
+    width: 50px;
+    position: relative; top:30px; left:65px;
+
+}
+
+.toDoBox span {
+    color: rgb(255, 103, 171)
+}
+
+
+#note{
+    color: black;
+}
+
+#addBtn{
+background-color: rgb(226, 195, 69);
+color: white;
+
+}
+
+#toDoList button {
+color: rgb(255, 103, 171);
+border:none;
+margin: 5px;
+border-radius: 5px;
+}
+
+#toDoList input {
+    /* background-color: black; */
+    color: black;
+    border: 0;
+}
+
