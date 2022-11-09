@@ -17,7 +17,6 @@ body {
     border-color: pink;
     color: rgb(114, 195, 191);
     
-
 }
 
 
@@ -55,6 +54,7 @@ background-color: rgb(226, 195, 69);
 color: white;
 border-radius: 10px;
 border-color: aliceblue;
+width:200px;
 
 }
 
@@ -66,8 +66,7 @@ border-radius: 5px;
 }
 
 #toDoList input {
-    /* background-color: black; */
-    color: black;
+    color: white;
     border: 0;
     text-decoration-color: antiquewhite;
 }
