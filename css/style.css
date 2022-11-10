@@ -66,7 +66,7 @@ border-radius: 5px;
 }
 
 #toDoList input {
-    color: white;
+    color: rgb(30, 30, 50);
     border: 0;
     text-decoration-color: antiquewhite;
 }
